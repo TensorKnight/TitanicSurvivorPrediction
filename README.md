@@ -1,17 +1,23 @@
-## Titanic Survivor Prediction Dataset
+## Description 
+Titanic Survivor Prediction Machine Learning model based on Kaggle Titanic Dataset.
 
-### Description
+## Contents
 
-Project involves prediction of survival rate of passenger on Titanic using machine learning model.
+### (1) Installation 
 
-### Installing requirements
-
+1. Clone the repository:
 ```bash
-pip install -r requirements.txt
+ git clone https://github.com/vrushalMore/Titanic-Survivor-Prediction
 ```
 
-### Results
+2. Install dependencies:
+```bash
+ pip install -r requirements.txt
+ ```
+
+### (2) Result 
 
 Best Model: KNeighborsClassifier, F1 Score: 0.79
 
-
+## License
+This project is licensed under the [MIT License](LICENSE).
